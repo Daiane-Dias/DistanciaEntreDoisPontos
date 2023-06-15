@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DistanciaEntreDoisPontos</string>
+    <string name="reset">Reset</string>
+    <string name="ponto_a">Ponto A</string>
+    <string name="ver">ver</string>
+    <string name="ponto_b">Ponto B</string>
+    <string name="distancia">Distância</string>
+</resources>
